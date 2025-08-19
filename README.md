@@ -52,8 +52,7 @@ Backend/
 
 Live URL
 
-Backend: [Your backend live URL here]
+Backend: 
 
 GitHub Repo
 
-[Backend Repository URL]
